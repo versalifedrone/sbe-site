@@ -20,6 +20,9 @@ links:
   - name:         Join
     url:          /join
     external:     false
+  - name:         Contact us
+    url:          /contact
+    external:     false
 # ------------ CONFIGURABLE END ------------
 
 permalink:        /posts/:title

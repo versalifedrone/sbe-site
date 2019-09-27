@@ -2,6 +2,8 @@
 title: Our events
 ---
 
+Our events are usually on [our Facebook page](https://www.facebook.com/sbeatdtu/ "Link to our Facebook page") a couple of weeks in advance. Here's a selection of the recurring events we tend to do every year. 
+
 ### Reach and Discover
 A yearly symposium where life science students can network their way to the next project or student job. More than 30 research groups, companies and organisations were represented last year.  
 
