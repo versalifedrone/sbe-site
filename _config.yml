@@ -11,7 +11,7 @@ links:
   - name:         Posts
     url:          /
     external:     false
-  - name:         About me
+  - name:         About us
     url:          /about
     external:     false
 # ------------ CONFIGURABLE END ------------
