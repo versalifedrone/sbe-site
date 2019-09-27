@@ -14,6 +14,12 @@ links:
   - name:         About us
     url:          /about
     external:     false
+  - name:         Our events
+    url:           /events
+    external:     false
+  - name:         Join
+    url:          /join
+    external:     false
 # ------------ CONFIGURABLE END ------------
 
 permalink:        /posts/:title
